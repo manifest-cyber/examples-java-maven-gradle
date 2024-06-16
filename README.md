@@ -1,5 +1,3 @@
-# Untitled
-
 # SBOM Generation for Java
 
 ## Overview
