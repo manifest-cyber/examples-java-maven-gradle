@@ -30,7 +30,7 @@ dependencyLocking {
 }
 
 dependencies {
-    testImplementation group: 'junit', name: 'junit', version: '4.12'
+    testImplementation group: 'junit', name: 'junit', version: '4.13.1'
     implementation group: 'redis.clients', name: 'jedis', version: '4.3.1'
 }
 
