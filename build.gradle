@@ -31,6 +31,6 @@ dependencyLocking {
 
 dependencies {
     testImplementation group: 'junit', name: 'junit', version: '4.12'
-    implementation group: 'redis.clients', name: 'jedis', version: '4.3.1'
+    implementation group: 'redis.clients', name: 'jedis', version: '4.3.2'
 }
 
